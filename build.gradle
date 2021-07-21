@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'io.rest-assured:rest-assured:3.0.0'
+    compile group: 'org.testng', name: 'testng', version: '7.4.0'
+    compile 'com.googlecode.json-simple:json-simple:1.1'
+    compile 'log4j:log4j:1.2.17'
+    compile 'com.aventstack:extentreports:5.0.8'
+
+
+
+
+}
+
+test {
+    useTestNG()
+}

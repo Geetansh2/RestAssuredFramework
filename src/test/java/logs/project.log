@@ -1,0 +1,4 @@
+07-21-2021 15:34:21 - [com.project1.testcases.pet.PetTestCases / uploadAnImageForThePet][INFO ] - Upload an image for the pet 1
+07-21-2021 15:34:21 - [com.project1.testcases.pet.PetTestCases / uploadAnImageForThePet][INFO ] - Pet upload image url path for pet 1: /pet/1/uploadImage
+07-21-2021 15:34:24 - [com.project1.testcases.pet.PetTestCases / uploadAnImageForThePet][INFO ] - Response string is : {"code":200,"type":"unknown","message":"additionalMetadata: Geetansh\nFile uploaded to ./petImage.jpg, 35448 bytes"}
+07-21-2021 15:34:24 - [com.project1.testcases.pet.PetTestCases / uploadAnImageForThePet][INFO ] - Response statusCode:200

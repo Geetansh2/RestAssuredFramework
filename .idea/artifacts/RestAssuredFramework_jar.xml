@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RestAssuredFramework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RestAssuredFramework_jar</output-path>
+    <root id="archive" name="RestAssuredFramework.jar" />
+  </artifact>
+</component>

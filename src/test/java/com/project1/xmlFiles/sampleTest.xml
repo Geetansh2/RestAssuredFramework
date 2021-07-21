@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ListenerExecution">
+    <listeners>
+        <listener class-name="com.project1.listeners.Listener"/>
+    </listeners>
+
+    <test name="Testing sample case">
+        <classes>
+            <class name="com.project1.testcases.SampleTestCase1"/>
+        </classes>
+    </test>
+
+
+</suite>

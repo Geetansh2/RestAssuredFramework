@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project1.testcases.pet.PetTestCases" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-21T10:04:21" hostname="LAPTOP-TI6476OL" time="3.539">
+  <properties/>
+  <testcase name="uploadAnImageForThePet" classname="com.project1.testcases.pet.PetTestCases" time="3.539"/>
+  <system-out><![CDATA[07-21-2021 15:34:21 - [com.project1.testcases.pet.PetTestCases / uploadAnImageForThePet][INFO ] - Upload an image for the pet 1
+07-21-2021 15:34:21 - [com.project1.testcases.pet.PetTestCases / uploadAnImageForThePet][INFO ] - Pet upload image url path for pet 1: /pet/1/uploadImage
+07-21-2021 15:34:24 - [com.project1.testcases.pet.PetTestCases / uploadAnImageForThePet][INFO ] - Response string is : {"code":200,"type":"unknown","message":"additionalMetadata: Geetansh\nFile uploaded to ./petImage.jpg, 35448 bytes"}
+07-21-2021 15:34:24 - [com.project1.testcases.pet.PetTestCases / uploadAnImageForThePet][INFO ] - Response statusCode:200
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
